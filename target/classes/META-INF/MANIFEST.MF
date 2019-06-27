@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ian
+Build-Jdk: 12.0.1
+Implementation-Title: todoapplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.qa.todoapp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/todoapplication
+Created-By: Maven Integration for Eclipse
+
